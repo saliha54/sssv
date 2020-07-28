@@ -16,6 +16,7 @@ One of the main outcomes of this project is figuring out how to create, explore 
   	* [Usage](#Usage)
 * [Technology-Tool-Stack](#technology-tool-stack)
 * [Contributing](#contributing)
+* [Our Team](#the-team)
 * [License](#credits)
 
 ---
@@ -38,19 +39,12 @@ One of the main outcomes of this project is figuring out how to create, explore 
 ---
 ## Setup Environment
 
-### installation:
-- Clone Develoment Master Branch of this repo
-- Install all Backend dependencies in **/DanceWithMe** folder --> run **npm install** in the terminal
-- Install all Frontend dependencies in **/DanceWithMe/client** folder --> run **npm install** in the terminal
-- Create a folder named **config** under **/API** folder
-- Create a file named **.env** under **config** folder
-- Add environment variables (**MONGODB_PSWD, JWT_SECRET and SENDGRID_API_KEY**) in this file
+
+### installation
 
 ### Prerequisites
 
 * You should have [npm](https://www.npmjs.com/get-npm) installed on your machine. 
-
-### Installing
 
 * Clone the repository:
 ```
@@ -69,6 +63,7 @@ npm start
 
 
 ### The team
+
 * [Hamdan](https://github.com/hamdan-99)
 * [Mustapha](https://github.com/maflooty)
 * [Saliha](https://github.com/saliha54)
