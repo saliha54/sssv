@@ -1,4 +1,4 @@
-# :dancer: Dance-With-Me HYF Graduation Project
+# :sport: Dance-With-Me HYF Graduation Project
 
 >This repository is created for the final project of **[Hack Your Future Belgium](https://hackyourfuture.be/)** **Frontend Development Program** and build by *HTML5, CSS3, Bootstrap, MongoDB, Express, NodeJS and ReactJS (**MERN Stack***).
 One of the main outcomes of this project is figuring out how to create, explore and run a web application in a development environment, then deploying it to the production environment in accordance with **Test-Driven-Development(TDD)** approach. 
