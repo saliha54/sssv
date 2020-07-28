@@ -3,7 +3,7 @@
 >This repository is created for the **[Osoc 2020](https://summerofcode.be/)**  and build by *HTML5, CSS3, Bootstrap, React-Bootstrap, MongoDB, Express, NodeJS , ReactJS and NextJS (**MERN Stack***).
 One of the main outcomes of this project is figuring out how to create, explore and run a web application in a development environment, then deploying it to the production environment in accordance with **Test-Driven-Development(TDD)** approach. 
 
-**Fitigai** comes from a combination of fitness and Ikigai, which is finding your meaning of life. 
+>**Fitigai** comes from a combination of fitness and Ikigai, which is finding your meaning of life. 
 
 > **Fitigai** application is about finding a sports coach near to you.The Fitigaï app makes it accessible to everyone to easily find a suitable coach. We payed attention to keyboard navigation, screen readability and color blindness. It is mobile friendly and available in several languages. 
   
