@@ -18,6 +18,8 @@ One of the main outcomes of this project is figuring out how to create, explore 
 * [Contributing](#contributing)
 * [Our Team](#the-team)
 * [License](#credits)
+* [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -94,8 +96,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-Thanks to 
-
-The amazing people of [Osoc](https://summerofcode.be/)
+Thanks to the amazing people of [Osoc](https://summerofcode.be/)
 
 
