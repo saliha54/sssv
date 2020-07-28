@@ -46,24 +46,28 @@ One of the main outcomes of this project is figuring out how to create, explore 
 - Create a file named **.env** under **config** folder
 - Add environment variables (**MONGODB_PSWD, JWT_SECRET and SENDGRID_API_KEY**) in this file
 
-### running-application
-  In the root folder **/DanceWithMe**,
-  - To run both backend and frontend --> run **npm run dev** in the terminal
-  - To run only backend --> run **npm run dev-api** in the terminal
-  - To run only frontend -->run **npm run dev-client** in the terminal
+### Prerequisites
+
+* You should have [npm](https://www.npmjs.com/get-npm) installed on your machine. 
+
+### Installing
+
+* Clone the repository:
+```
+git clone https://github.com/hamdan-99/Fitigai.git
+```
+
+* Install dependancies:
+```
+npm install
+```
+* Run the app in:
+```
+npm start
+```
+* Open [http://localhost:3000](http://localhost:3000) to view the page in your browser.
   
-### usage
-**Landing Page**
-![](https://github.com/Mert1980/DanceWithMe/blob/Development_Master/client/public/images/landing.png?raw=true)
 
-**Sign Up**
-![](https://github.com/Mert1980/DanceWithMe/blob/Development_Master/client/public/images/signup.png?raw=true)
-
-**Sign In**
-![](https://github.com/Mert1980/DanceWithMe/blob/Development_Master/client/public/images/signin.png?raw=true)
-
-**Profile Page**
-![](https://github.com/Mert1980/DanceWithMe/blob/Development_Master/client/public/images/profilePage.png?raw=true)
 
 ## Technology-Tool-Stack
 - **NodeJS** : Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm,[6] unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.
@@ -82,8 +86,14 @@ One of the main outcomes of this project is figuring out how to create, explore 
 ## Contributing
    - You are more than welcomed to contribute in this project by opening an issue or sending a pull request.
 ---
-
 ## License
-   - HackYourFuture-Belgium
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Thanks to 
+
+The amazing people of [Osoc](https://summerofcode.be/)
 
 
