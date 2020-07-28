@@ -66,6 +66,13 @@ npm install
 npm start
 ```
 * Open [http://localhost:3000](http://localhost:3000) to view the page in your browser.
+
+
+### The team
+* [Hamdan](https://github.com/hamdan-99)
+* [Mustapha](https://github.com/maflooty)
+* [Saliha](https://github.com/saliha54)
+* [Ufuk](https://github.com/u-uysal)
   
 
 
