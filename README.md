@@ -41,6 +41,7 @@ One of the major outcomes of this project is figuring out how to create, explore
   * [Web Accessibility](https://www.webaccessibility.com/)
 * Localizing the website
   * English, French, Dutch
+* Designing responsively, and mobile friendly 
 
 ---
 
