@@ -16,9 +16,9 @@ One of the main outcomes of this project is figuring out how to create, explore 
 	* [Installation](#installation)
 	* [Running Application](#running-application)
   	* [Usage](#Usage)
+* [Our Team](#the-team)
 * [Technology-Tool-Stack](#technology-tool-stack)
 * [Contributing](#contributing)
-* [Our Team](#the-team)
 * [License](#credits)
 * [Acknowledgments](#acknowledgments)
 
