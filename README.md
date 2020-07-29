@@ -86,6 +86,8 @@ Our team consists of 4 [HackYourFuture](https://hackyourfuture.be/) alumni.
 - **Axios** : Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser that also supports the ES6 Promise API. 
 - **Bootstrap** : Bootstrap is a potent front-end framework used to create modern websites and web apps. It's open-source and free to use, yet features numerous HTML and CSS templates for UI interface elements such as buttons and forms. Bootstrap also supports JavaScript extensions.
 - **MongoDB**: MongoDB is a document database with query and index scalability and flexibility.
+- **Vercel** : Vercel is the creator of Next. js and a platform that enables users to develop, preview, and ship Jamstack sites.
+- **Heroku** : Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 ---
 
 # TODO's
