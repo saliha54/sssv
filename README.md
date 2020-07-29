@@ -15,6 +15,7 @@ One of the main outcomes of this project is figuring out how to create, explore 
 * [Installation](#installation)
 * [Our Team](#the-team)
 * [Technology-Tool-Stack](#technology-tool-stack)
+* [TODO's](#todos)
 * [Contributing](#contributing)
 * [License](#credits)
 * [Acknowledgments](#acknowledgments)
@@ -84,6 +85,14 @@ npm start
 - **Bootstrap** : Bootstrap is a potent front-end framework used to create modern websites and web apps. It's open-source and free to use, yet features numerous HTML and CSS templates for UI interface elements such as buttons and forms. Bootstrap also supports JavaScript extensions.
 
 ---
+
+# TODO's
+* UI needs to improve overall, next button placement, etc.
+* Screen where you choose the problem needs to be more accessible
+* The API sometimes doesn't give the expected result (like in Brussel, Brussel won't get filled in in the city field)
+* Address screen needs to be redesigned, UX problems
+* Add a screen where you can add multiple pictures, also from your library
+* Code needs to get refactored. This code needed to written fast, so there where no custom components used, etc.
 
 ## Contributing
    - You are more than welcomed to contribute in this project by opening an issue or sending a pull request.
