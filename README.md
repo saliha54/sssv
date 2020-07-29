@@ -12,10 +12,7 @@ One of the main outcomes of this project is figuring out how to create, explore 
 ---
 ## Index
 * [Learning Objectives and Supported Skills](#learning-objectives-and-supported-skills)
-* [Setup Environment](#setup-environment)
-	* [Installation](#installation)
-	* [Running Application](#running-application)
-  	* [Usage](#Usage)
+* [Installation](#installation)
 * [Our Team](#the-team)
 * [Technology-Tool-Stack](#technology-tool-stack)
 * [Contributing](#contributing)
@@ -41,10 +38,9 @@ One of the main outcomes of this project is figuring out how to create, explore 
 * Understanding code which is written by your team mate
 
 ---
-## Setup Environment
 
 
-### installation
+## Installation
 
 ### Prerequisites
 
