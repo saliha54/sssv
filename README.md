@@ -87,12 +87,9 @@ npm start
 ---
 
 # TODO's
-* UI needs to improve overall, next button placement, etc.
-* Screen where you choose the problem needs to be more accessible
-* The API sometimes doesn't give the expected result (like in Brussel, Brussel won't get filled in in the city field)
-* Address screen needs to be redesigned, UX problems
-* Add a screen where you can add multiple pictures, also from your library
-* Code needs to get refactored. This code needed to written fast, so there where no custom components used, etc.
+* UI needs to improve overall, back button placement, etc.
+* Users can be able to select days according to coach's availability on Coach Profile Page
+* Can be add more functionality like sending direct message to coach email.
 
 ## Contributing
    - You are more than welcomed to contribute in this project by opening an issue or sending a pull request.
