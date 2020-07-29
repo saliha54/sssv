@@ -13,7 +13,7 @@ One of the major outcomes of this project is figuring out how to create, explore
   
 ---
 ## Index
-* [Learning Objectives and Supported Skills](#learning-objectives-and-supported-skills)
+* [Learning Objectives](#learning-objectives-and-supported-skills)
 * [Installation](#installation)
 * [Our Team](#the-team)
 * [Technology-Tool-Stack](#technology-tool-stack)
@@ -25,20 +25,22 @@ One of the major outcomes of this project is figuring out how to create, explore
 
 ---
 
-## Learning Objectives and Supported Skills
-* Creating a user-friendly React Application (using Functional/Class Bases Components and Hooks)
+## Learning Objectives
+* Creating a SEO-friendly website with NextJS
 * Building wireframes, mocks, and prototype of pages
 * Setting up a professional folder structure
-* Understanding Test-Driven-Development(TDD)
-* Implementing Continuous Integration and Continuous Deployment (CI/CD)
 * Using GitHub Project Board as a project management tool
 * Setting up NodeJS and database connection
-* Setting up the cloud database environment
-* Setting up API endpoints
-* Setting up user authentication in NodeJS
-* Debugging ReactJs and NextJs code in IDE
-* Exploring and understanding DOM
-* Understanding code which is written by your teammate
+* Setting up the test cloud database environment
+* Setting up user test authentication in NodeJS
+* Debugging NextJs code
+* Adding accessibility tools
+* Testing the accessibility tools through certain validators
+  * [Color Blindness](https://www.toptotal.com/designers/colorfilter)
+  * [Color Contrast](https://www.color.a11y.com/Contrast/)
+  * [Web Accessibility](https://www.webaccessibility.com/)
+* Localizing the website
+  * English, French, Dutch
 
 ---
 
@@ -60,12 +62,15 @@ npm install
 ```
 * Run the app in:
 ```
-npm start
+npm run dev
 ```
 * Open [http://localhost:3000](http://localhost:3000) to view the page in your browser.
 
 
 ### The team
+
+Our team consists of 4 [HackYourFuture](https://hackyourfuture.be/) alumni.
+[HackYourFuture](https://hackyourfuture.be/) is a free 7-month web development program for talented refugees and other disadvantaged groups with limited access to education and the labor market.
 
 * [Hamdan](https://github.com/hamdan-99)
 * [Mustapha](https://github.com/maflooty)
@@ -92,6 +97,7 @@ npm start
 * Users can be able to select days according to coach's availability on Coach Profile Page
 * Multiple language for each coach on backend
 * Sending direct messages to coach email
+* Add more localization keywords
 
 ## Contributing
    - You are more than welcomed to contribute to this project by opening an issue or sending a pull request.
@@ -102,4 +108,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-Thanks to the amazing people of [Osoc](https://summerofcode.be/)
+Thanks to the amazing people of [Osoc](https://summerofcode.be/) and [HackYourFuture](https://hackyourfuture.be/)
+
