@@ -1,6 +1,6 @@
 # :football: Osoc 2020 Fitigai Project
 
-<p align="center"><img src="./readmePICS/crest.svg" width="96"><img src="https://github.com/oSoc19/website/blob/master/img/logo/logo-osoc-color.svg" width="128"></p>
+<p align="center"><img src="https://hackyourfuture.be/img/hyflbe.jpg" width="96"><img src="https://github.com/oSoc19/website/blob/master/img/logo/logo-osoc-color.svg" width="128"></p>
 
 >This repository is created for the **[Osoc 2020](https://summerofcode.be/)**  and build by *HTML5, CSS3, Bootstrap, React-Bootstrap, MongoDB, Express, NodeJS , ReactJS and NextJS (**MERN Stack***).
 One of the main outcomes of this project is figuring out how to create, explore and run a web application in a development environment, then deploying it to the production environment in accordance with **Test-Driven-Development(TDD)** approach. 
