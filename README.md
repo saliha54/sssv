@@ -6,6 +6,8 @@ One of the main outcomes of this project is figuring out how to create, explore 
 >**Fitigai** comes from a combination of fitness and Ikigai.Ikigai means that finding your meaning of life in Japanese philosophy 
 
 > **Fitigai** application is about finding a sports coach near to you.The Fitigaï app makes it accessible to everyone to easily find a suitable coach. We payed attention to keyboard navigation, screen readability and color blindness. It is mobile friendly and available in several languages. 
+
+>Our main goal was not to deliver fully-featured web application, but instead to create a minimum viable product in 4 weeks. We had to work in an environment where Covid-19 measures were in place. That means, we had to work remotely, but that shouldn't hamper our development process. In order to overcome the side-effects of remote working, we set-up daily working sessions between team members and used the benefit of collaborative coding.  
   
 ---
 ## Index
